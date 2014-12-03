@@ -22,4 +22,8 @@
        ,"contextMenus"
        ,"tabs"
    ]
+  ,"chrome_url_overrides": {
+       "newtab":"main.html"
+  }
+
 }
